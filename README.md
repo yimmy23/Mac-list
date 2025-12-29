@@ -177,7 +177,7 @@ Dozer 操作方法很简单，Dozer运行后在菜单栏会出现一个「‧」
 
 ### 科学上网（服务）
 
-- [AgentNEO](https://agneo.co/?rc=ut50176c) - 网速很快，很稳定。支持支付宝付款。【荐】
+- [AgentNEO](https://niceneo.com/?rc=ut50176c) - 网速很快，很稳定。支持支付宝付款。【荐】
 - [Lantern](https://getlantern.org) - 蓝灯。
 
 ### 密码管理
@@ -248,7 +248,7 @@ Smooth Scroll 提供了一些晦涩难懂的数值型设置选项，我认为默
 ### Mac系统管理、磁盘清理
 
 - [腾讯柠檬清理](https://lemon.qq.com/) - 匠心打磨清理体验，一键释放磁盘空间。【荐】
-- [OmniDiskSweeper](https://www.omnigroup.com/more/) - 最简单易操作、免费的、强大的Macbook内存清理软件。它可以深度清掉Mac里那些犄角旮旯里的缓存数据，也就是那些占了很多内存但是你并找不到在哪里的「其他」。[#](https://web.okjike.com/originalPost/61fbdd4d0256da0010792d62)
+- [OmniDiskSweeper](https://www.omnigroup.com/more/) - Mac 清理工具，免费，简洁；最简单易操作、免费的、强大的Macbook内存清理软件。扫描之后，把文件从大到小排列，便于快速清除一些无用的文件。它可以深度清掉Mac里那些犄角旮旯里的缓存数据，也就是那些占了很多内存但是你并找不到在哪里的「其他」。[#](https://web.okjike.com/originalPost/61fbdd4d0256da0010792d62)
 - [CleanMyMac X](https://cleanmymac.com/) - 删除系统垃圾、不需要的应用程序和恶意软件，并调整你的 Mac 以获得最大速度。
 - [MacBooster](https://www.macbooster.cn/) - 磁盘、内存清理工具。
 - [DaisyDisk](https://daisydiskapp.com/) - 磁盘分析工具。了解磁盘使用状况，并进行准确的分析。DaisyDisk 的视觉系属性大大超过了功能性。 [#](https://www.twblogs.net/a/5baad01e2b7177781a0e94d6/zh-cn)
